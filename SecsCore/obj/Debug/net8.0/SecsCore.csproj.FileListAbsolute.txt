@@ -1,0 +1,12 @@
+D:\NXL\SecsProject\SecsCore\bin\Debug\net8.0\SecsCore.deps.json
+D:\NXL\SecsProject\SecsCore\bin\Debug\net8.0\SecsCore.dll
+D:\NXL\SecsProject\SecsCore\bin\Debug\net8.0\SecsCore.pdb
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\SecsCore.csproj.AssemblyReference.cache
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\SecsCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\SecsCore.AssemblyInfoInputs.cache
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\SecsCore.AssemblyInfo.cs
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\SecsCore.csproj.CoreCompileInputs.cache
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\SecsCore.dll
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\refint\SecsCore.dll
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\SecsCore.pdb
+D:\NXL\SecsProject\SecsCore\obj\Debug\net8.0\ref\SecsCore.dll

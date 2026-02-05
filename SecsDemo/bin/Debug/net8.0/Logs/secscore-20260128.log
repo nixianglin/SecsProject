@@ -1,0 +1,27 @@
+2026-01-28 10:19:09.469 [INF] === SecsCore Production Host Starting ===
+2026-01-28 10:19:09.705 [INF] Loaded Configuration: Mode="Active", Remote=127.0.0.1:5000, DeviceId=0
+2026-01-28 10:19:09.725 [INF] Starting Driver in "Active" mode on 127.0.0.1:5000
+2026-01-28 10:19:09.728 [INF] Driver started. Press Ctrl+C to exit.
+2026-01-28 10:19:09.795 [INF] Active Mode: Connecting to 127.0.0.1:5000...
+2026-01-28 10:19:09.864 [INF] State Changed: "Connected"
+2026-01-28 10:19:09.866 [INF] TCP Established. Starting Pipeline.
+2026-01-28 10:19:09.917 [DBG] [SEND] S0F0
+2026-01-28 10:19:10.006 [DBG] [RECV] S0F0 (Type="SelectRsp")
+2026-01-28 10:19:10.016 [INF] State Changed: "Selected"
+2026-01-28 10:19:10.018 [INF] HSMS Selected.
+2026-01-28 10:19:19.473 [DBG] [RECV] S1F13 (Type="DataMessage")
+<L [2]
+  <A [4] "WXXX">
+  <A [6] "V01R01">
+>
+2026-01-28 10:19:19.476 [INF] Auto-Replying to S1F13 (Comm Request)
+2026-01-28 10:19:19.481 [DBG] [SEND] S1F14
+<L [2]
+  <B [1] 0x00>
+  <L [2]
+    <A [8] "SecsCore">
+    <A [8] "Prod-1.0">
+  >
+>
+2026-01-28 10:19:39.898 [DBG] [SEND] S0F0
+2026-01-28 10:19:39.903 [DBG] [RECV] S0F0 (Type="LinktestRsp")

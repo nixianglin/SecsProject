@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "PiNXQS5UZGVeLZxIqnZtetfTsHvn+Gz1N6pVZ8wwsirNxtDIYMZMGuAQhzPxTr9QTNq3tvkBbAJzWXDNA47yhQ==",
+  "success": true,
+  "projectFilePath": "D:\\NXL\\SecsProject\\SecsCore\\SecsCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11409799\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\11409799\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.2\\microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\11409799\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.2\\system.diagnostics.diagnosticsource.10.0.2.nupkg.sha512",
+    "C:\\Users\\11409799\\.nuget\\packages\\system.io.pipelines\\10.0.2\\system.io.pipelines.10.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://1.116.122.221:50011/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
